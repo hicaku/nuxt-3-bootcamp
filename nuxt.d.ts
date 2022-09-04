@@ -9,4 +9,4 @@
 /// <reference path="imports.d.ts" />
 /// <reference path="types/nitro.d.ts" />
 
-export {}
+export {};
